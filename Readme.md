@@ -2,8 +2,6 @@
 
   Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
 
-[![Gittip](https://img.shields.io/gittip/visionmedia.svg)](https://www.gittip.com/visionmedia/)
-
 ```js
 var express = require('express');
 var app = express();
