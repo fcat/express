@@ -69,22 +69,6 @@ app.listen(3000);
   * [Русскоязычная документация](http://jsman.ru/express/)
   * Run express examples [online](https://runnable.com/express)
 
-## Viewing Examples
-
-Clone the Express repo, then install the dev dependencies to install all the example / test suite dependencies:
-
-    $ git clone git://github.com/visionmedia/express.git --depth 1
-    $ cd express
-    $ npm install
-
-Then run whichever tests you want:
-
-    $ node examples/content-negotiation
-
-You can also view live examples here:
-
-<a href="https://runnable.com/express" target="_blank"><img src="https://runnable.com/external/styles/assets/runnablebtn.png" style="width:67px;height:25px;"></a>
-
 ## Running Tests
 
 To run the test suite, first invoke the following command within the repo, installing the development dependencies:
